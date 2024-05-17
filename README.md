@@ -1,4 +1,4 @@
-This is a single-player game made with Unity and C# scripts. It was the final project for my Computer Graphics and Games class. Based on Star Wars: Tales of the Jedi.
+This is a single-player game made with Unity and C# scripts. It was the final project for my Computer Graphics and Games class in Spring 2024. Based on Star Wars: Tales of the Jedi.
 <hr>
 
 Resources used:
